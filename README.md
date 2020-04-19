@@ -3,5 +3,7 @@
 Group Members:
 
 Jacqueline Isabel Cardenas
+
 Daniel Pestolesi
+
 Garrett Reeve
